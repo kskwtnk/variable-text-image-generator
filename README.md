@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/22670303/227798003-87678e0b-2c2b-49fe-
 
 - Clone this repository.
   - If you want to change the repository name, change the name field in package.json as well.
-- Run `yarn dev`.
+- Run `pnpm dev`.
 - Change styles by referring to `src/templates/Example1.tsx` or `src/templates/Example2.tsx
 - Change `src/routes.ts` if you want to change the path or the text in the image.
 - Change the `settings > Build and deployment > Source` in the repository to `GitHub Actions` to use it on GitHub Pages.
